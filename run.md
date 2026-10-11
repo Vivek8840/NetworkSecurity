@@ -1,0 +1,1 @@
+useconda activate network-security to activate condata environment 
